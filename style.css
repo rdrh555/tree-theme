@@ -1,0 +1,184 @@
+ body {
+    color: #000;
+    background-color: #F3F1EC;
+    font-family: Verdana,Helvetica,sans-serif;
+    font-size: 14px;
+}
+
+#page {
+    margin: 0 auto;
+    padding: 0;
+    width: 960px;
+ }
+
+#main-wrapper {
+    background-color: #FFFFFF;
+    box-shadow: 0 0 5px #CCCCCC;
+    
+}
+#content {
+    line-height: 17px;
+    text-align: left;
+}
+
+#content .section {
+    float: left;
+}
+
+#content .section .secondary_content {
+    float: left;
+    margin: 0 0 10px 5px;
+    padding: 0;
+    width: 650px;
+}
+
+#header {
+    height: 97px;
+}
+
+#main {
+    margin-left: 35px;
+    margin-right: 35px;
+    width: 900px;
+}
+
+#main-wrapper {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #FFF;
+}
+
+#logo {
+   margin-top: 8px;
+   display: block;
+   width: 440px;
+}
+
+#name-and-slogan {
+    width: 185px;
+    margin-left: 316px;
+    margin-top: -23px;
+}
+
+#site-slogan {
+    color: #743A22;
+    font-style: italic; 
+}
+
+#block-search-form {
+    margin-top: -22px;  
+    float: right;
+}
+
+#block-system-main-menu {
+    height:40px;
+    background-color: #1A4508;
+}
+
+#navigation ul.menu{
+    border: none;
+    list-style: none;
+    padding: 0;
+}
+
+#navigation ul.menu li{
+    display: table-cell;
+    list-style-image: url();
+    list-style-type: none;
+    margin: 0;
+    padding: 0 20px;
+    height: 41px;
+    vertical-align: middle;
+}
+
+#navigation div {
+    margin: 0;
+    padding: 0;
+}
+#navigation {
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+ }
+
+ #navigation ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+#breadcrumb {
+    margin-top: 0px;
+ }
+
+ .breadcrumb  {
+    padding-top: 15px;
+    padding-left: 15px;
+    text-decoration: none;
+}
+
+#sidebar-second {
+    float: right;
+    width: 206px;
+    margin: 0;
+    border: 1px solid #000;
+}
+
+
+#content h1 {
+    line-height: 30px;
+    font-size: 28px;
+    font-weight: bold;
+    color: #7C422A;
+    
+}
+
+#content h2 {
+    line-height: 22px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #004F00;
+    padding: 0;
+    margin: 0;
+}
+
+#content h3 {
+    line-height: 19px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #000000;
+    padding: 0;
+    margin: 0;
+}
+
+#content h4, #content h5, #content h6 {
+    line-height: 17px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #000000;
+    padding: 0;
+    margin: 0;
+}
+
+#main a,
+#main a:link {
+    color: #0067AC;
+    text-decoration: none;
+}
+
+#main a:visited {
+    text-decoration: none;
+    color: #5D9830;
+}
+
+#main a:hover {
+    text-decoration: none;
+    color: #DD7500;
+}
+
+#toolbar div.toolbar-menu {
+    background: none repeat scroll 0 0 #5D9830;
+    line-height: 20px;
+    padding: 5px 50px 5px 10px;
+    position: relative;
+}
+
