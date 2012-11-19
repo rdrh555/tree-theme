@@ -2,12 +2,8 @@ name = tree
 package = Core
 version = VERSION
 core = 7.x
-stylesheets[all][] = layout.css
+stylesheets[all][] = style.css
 
-
-
-; REGIONS DEFINED
-regions[alert] = Alert
 regions[header] = Header
 regions[main_nav] = Main Nav
 
@@ -15,10 +11,9 @@ regions[sidebar_first]  = Left Sidebar
 regions[sidebar_second] = Right Sidebar
 
 regions[content] = Content
-regions[homepage_news] = Homepage News
 
 regions[footer] = Footer
-regions[jhufooternav] = JHU Footer Nav
 
 regions[highlighted] = Highlighted
 regions[help] = Help
+
